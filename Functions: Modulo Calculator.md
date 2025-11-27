@@ -1,3 +1,4 @@
+## MODULO CALCULATOR
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
 
